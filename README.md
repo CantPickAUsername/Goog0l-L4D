@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Goog0l-L4D
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++ and Web Development
+- 📫 If you want to talk, my Discord's Goog0l_L4D#1548
